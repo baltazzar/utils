@@ -1,0 +1,22 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Utils",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baltazzar/utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "BaltazZar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baltazzar/utils/issues"
+  },
+  "homepage": "https://github.com/baltazzar/utils#readme"
+}
